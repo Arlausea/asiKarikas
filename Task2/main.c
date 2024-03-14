@@ -9,8 +9,8 @@
 
 // Prototypes.
 
-char* login(int *lenght);
-int login(); // Don't know what to use as a variable.
+char* login(int *lenght); //Should be 1 of the commands.
+int ask_for_command(); // Don't know what to use as a variable.
 
 int main(void){
 	
@@ -19,14 +19,14 @@ int main(void){
 	// username array / pointer here.
 	
 	while(1){ // Command zone.
-		do{
-			login(lenght);
-		}while(); //While username == "NULL"
-		
 		command = ask_for_command();
 		switch(command){
 		case 0: //exit command.
+			// If needed, save here.
 			return 0;
+			break;
+		case 1: // output manual
+			// Needs to be added.
 			break;
 		default:
 			printf("ERROR\n");
@@ -41,7 +41,7 @@ char* login(*lenght){
 	return;
 }
 
-int login(){
+int ask_for_command(){
 	
 	return;
 }
