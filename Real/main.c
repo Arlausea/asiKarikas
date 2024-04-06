@@ -42,7 +42,7 @@ int main(int argc, char* args[])
     // SDL_SetWindowResizable(window, SDL_TRUE);
 
     // Texture
-    surface = SDL_LoadBMP("textures\\test_map.bmp");
+    surface = SDL_LoadBMP("textures\\map.bmp");
     SDL_Texture* texture_map = SDL_CreateTextureFromSurface(renderer, surface);
     SDL_Rect rect;
     rect.w = window_with;
