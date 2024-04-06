@@ -1,4 +1,4 @@
-#include"visual.c"
+#include"algorithm.c"
 
 /*
 SDL credits in SDL_IMPORTANT_NOTES > CREDITS
