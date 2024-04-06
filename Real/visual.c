@@ -70,8 +70,8 @@ void get_x_y(char name[42], int *x, int *y){
     }
     else if(!strcmp(name, "student hostel 1") || !strcmp(name, "do1"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "student hostel 2") || !strcmp(name, "do2"))
@@ -118,62 +118,62 @@ void get_x_y(char name[42], int *x, int *y){
     }
     else if(!strcmp(name, "technology park") || !strcmp(name, "con"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "building of cybernetics") || !strcmp(name, "ico"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "building of woodworking ") || !strcmp(name, "ict"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "stadium") || !strcmp(name, "cyb"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "textile technology building") || !strcmp(name, "tim"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "sports centre") || !strcmp(name, "sta"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "study building 10"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "") || !strcmp(name, "s01"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "") || !strcmp(name, "soc"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     else if(!strcmp(name, "student house") || !strcmp(name, "stu"))
     {
-        x = ;
-        y = ;
+        x = 11;
+        y = 11;
         return;
     }
     
