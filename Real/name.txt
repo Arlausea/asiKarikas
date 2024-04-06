@@ -1,0 +1,31 @@
+library
+study building 1
+study building 2
+study building 3
+study building 4
+study building 5
+study building 6
+study building 7
+building of natural scienc
+student hostel 1
+student hostel 2
+student hostel 3
+family hostel
+academic hostel
+student hostel
+it building
+laboratory building of civil engineering
+technology park
+building of cybernetics
+building of woodworking 
+stadium
+textile technology building
+sports centre
+study building 10
+nd
+nd
+nd
+nd
+nd
+nd
+student house
