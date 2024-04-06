@@ -129,6 +129,9 @@ int main(int argc, char* args[])
 
         SDL_RenderCopy(renderer, texture_map, NULL, &rect); // 1st NULL can be replaced to say what part to copy, NULL says that copy all.
 
+        SDL_SetRenderDrawColor(renderer, 130, 130, 10, 100); // Give rect a color.
+        highlight(551, 594, shift_x, shift_y, window_with, window_height, zoom, renderer);
+
         SDL_RenderPresent(renderer); // Update window.
     }
 
