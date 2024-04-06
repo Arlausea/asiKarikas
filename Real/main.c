@@ -12,8 +12,8 @@ gcc -Isrc/Include -Lsrc/lib -o run main.c -lmingw32 -lSDL2main -lSDL2
 int main(int argc, char* args[])
 {
     int running = 1;
-    int window_height = 480;
-    int window_with = 640;
+    int window_height = 840; // 480;
+    int window_with = 1120; // 640
 
     int zoom = 1;
 
